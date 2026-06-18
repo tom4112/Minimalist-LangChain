@@ -1,0 +1,4 @@
+.env
+.python-version
+lc-venv/
+in_progress/*
